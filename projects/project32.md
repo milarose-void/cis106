@@ -1,7 +1,7 @@
 Milagros Rodriguez
 Professor R Alberto
 CIS 106
-Project 32
+Project 32/Deliverable 3
 
 ## Introduction
 This project is about how to recover files from an erased disk using Kali Linux. I have set up a USB Flash Drive with folders that contain texts, pdfs, and pictures within the folders and will be replicating what happens when it all gets erased completey. Despite it not being 100% comparable to doing it within an actual hard drive, it will be similar and will use the programs I explained in Deliverable 2.
